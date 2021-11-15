@@ -17,7 +17,7 @@ public class Collission : MonoBehaviour
 
     void OnCollisionEnter2D(Collision2D other) 
     {
-        Debug.Log("Ouch!");
+        Debug.Log("Ouch! I Guess I'll go slower");
         
     }
 
